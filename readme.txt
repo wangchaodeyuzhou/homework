@@ -9,3 +9,4 @@ Git tracks changes.
 我不知道这是futer1
 >>>>>>> fature1
 你个傻金币
+哈哈哈
