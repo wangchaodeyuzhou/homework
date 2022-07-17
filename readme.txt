@@ -9,7 +9,6 @@ Git tracks changes.
 我不知道这是futer1
 >>>>>>> fature1
 你个傻金币
-哈哈哈
 
 LG;WRG;WRKG[WHG饿哦日皮u二极管JR【P
 
