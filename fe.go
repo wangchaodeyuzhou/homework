@@ -9,11 +9,3 @@ func add() {
 func sub() {
 	fmt.Print("xdavdbaf")
 }
-
-func mutl() {
-	fmt.Println("cdsvfs")
-}
-
-func ndvos() {
-	fmt.Println("cdsknkd")
-}
