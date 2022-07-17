@@ -13,3 +13,7 @@ func sub() {
 func mutl() {
 	fmt.Println("cdsvfs")
 }
+
+func ndvos() {
+	fmt.Println("cdsknkd")
+}
