@@ -9,3 +9,7 @@ func add() {
 func sub() {
 	fmt.Print("xdavdbaf")
 }
+
+func mutl() {
+	fmt.Println("cdsvfs")
+}
