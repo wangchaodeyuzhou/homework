@@ -10,8 +10,20 @@ func sub() {
 	fmt.Print("xdavdbaf")
 }
 
-func mutl() {
-	fmt.Println("cdsvfs")
+func dsknclskdn() {
+	fmt.Println("csdknbslfk")
+}
+
+func llsdvvb() {
+	fmt.Println("vsfkvll")
+}
+
+func sckdlskdv() {
+	fmt.Println("cdskvnls")
+}
+
+func skdnlvsd() {
+	fmt.Println("csdkovlnskv")
 }
 
 func ndvos() {
