@@ -9,3 +9,7 @@ func kdcsl() {
 func sdkvnlsdv() {
 	fmt.Println("vfkvls")
 }
+
+func cdsl() {
+	fmt.Println("cdklv")
+}
